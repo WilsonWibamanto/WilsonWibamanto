@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... Making creative ideas for an IT project
 - 📫 How to reach me: ... through my Linkedin/Facebook page.
 
-    <img align="left" alt="Wilson Wibamanto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> https://my.linkedin.com/in/wilson-wibamanto-964319173
+    <img align="left" alt="Wilson Wibamanto | LinkedIn" width="22px" src="https://commons.wikimedia.org/wiki/File:Linkedin_circle.svg" /> https://my.linkedin.com/in/wilson-wibamanto-964319173
 
 - ⚡ Fun fact: ... I like playing Temtem, go check the game out on Steam
